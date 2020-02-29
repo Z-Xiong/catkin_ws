@@ -1,0 +1,5 @@
+<launch>
+    <node name='move_server' pkg="learning_communication" type="homework3_MoveServer" output="screen"/>
+    <node name='move_client' pkg="learning_communication" type="homework3_MoveClient" output="screen"/>
+
+</launch>

@@ -1,0 +1,7 @@
+<launch>
+    <node name='turtlesim_node' pkg="turtlesim" type="turtlesim_node"/>
+    <node name='turtle_spawn' pkg="learning_communication" type="homework2_turtleSpawn"/>
+    <node name="pose_subscriber" pkg="learning_communication" type="homework2_poseSubscriber"/>
+    <node name="turtle_command_server" pkg="learning_communication" type="homework2_commandServer"/>
+
+</launch>

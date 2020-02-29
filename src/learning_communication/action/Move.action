@@ -1,0 +1,9 @@
+uint32 position
+
+---
+# Define result
+uint32 total_distance
+
+---
+# Define 
+float32 percent_complete

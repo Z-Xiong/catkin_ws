@@ -1,0 +1,2 @@
+set(learning_communication_MESSAGE_FILES "msg/Score.msg;msg/DoDishesAction.msg;msg/DoDishesActionGoal.msg;msg/DoDishesActionResult.msg;msg/DoDishesActionFeedback.msg;msg/DoDishesGoal.msg;msg/DoDishesResult.msg;msg/DoDishesFeedback.msg;msg/MoveAction.msg;msg/MoveActionGoal.msg;msg/MoveActionResult.msg;msg/MoveActionFeedback.msg;msg/MoveGoal.msg;msg/MoveResult.msg;msg/MoveFeedback.msg")
+set(learning_communication_SERVICE_FILES "srv/AddTwoInts.srv")
